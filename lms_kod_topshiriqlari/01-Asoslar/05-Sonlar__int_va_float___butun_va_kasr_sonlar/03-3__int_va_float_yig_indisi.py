@@ -1,0 +1,1 @@
+print("Sum:", int(input()) + float(input()))
