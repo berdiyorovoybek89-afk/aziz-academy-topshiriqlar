@@ -1,0 +1,1 @@
+print(f"Total: {float(input()) * int(input())}")
