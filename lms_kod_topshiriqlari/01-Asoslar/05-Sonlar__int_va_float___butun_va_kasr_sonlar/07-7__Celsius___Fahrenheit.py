@@ -1,0 +1,1 @@
+print(f"F: {float(input()) * 9/5 + 32}")
