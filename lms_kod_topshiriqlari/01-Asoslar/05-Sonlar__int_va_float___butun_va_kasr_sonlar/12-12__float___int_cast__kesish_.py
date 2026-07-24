@@ -1,0 +1,1 @@
+print("As int:" , int(float(input())))
