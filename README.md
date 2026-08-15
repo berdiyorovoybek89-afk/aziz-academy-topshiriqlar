@@ -63,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-08-15 12:41</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-08-15 12:42</sub>
