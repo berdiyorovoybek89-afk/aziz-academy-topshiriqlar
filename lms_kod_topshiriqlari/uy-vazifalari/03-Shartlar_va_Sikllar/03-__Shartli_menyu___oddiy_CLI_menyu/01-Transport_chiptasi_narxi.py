@@ -1,21 +1,17 @@
-t = int(input())
-f = int(input())
-if t == 1:
-    p = 1700
-elif t == 2:
-    p = 1700
-elif t == 3:
-    p = 4000
+transport = int(input())
+toifa = int(input())
+if transport == 1 or transport == 2:
+    narx = 1700
+elif transport == 3:
+    narx = 4000
 else:
-    print("Notogri transport")
+    print('Notogri transport')
     exit()
-if f == 1:
-        pass
-elif f == 2:
-    p //= 2
-elif f == 3:
-            p = 0
+if toifa == 1:
+    print(narx)
+elif toifa == 2:
+    print(narx // 2)
+elif toifa == 3:
+    print(0)
 else:
-    print("Notogri toifa")
-    exit()
-print(p)
+     print('Notogri toifa')
