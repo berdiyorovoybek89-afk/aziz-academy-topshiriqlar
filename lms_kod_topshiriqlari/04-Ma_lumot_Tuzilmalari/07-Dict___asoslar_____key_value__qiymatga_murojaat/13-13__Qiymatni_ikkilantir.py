@@ -1,0 +1,3 @@
+# Kodingizni shu yerga yozing
+d = {"x": int(input())}
+print(d["x"] * 2)
